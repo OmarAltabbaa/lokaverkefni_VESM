@@ -17,3 +17,4 @@
 ## 1.12.2020
 
 ### í dag ég búin að loða heta mæiling (sjá wiki) , og búin að profa það og var virkar (sjá wiki)
+### og lika ég búin að tengja hetamæli og lcd skjá saman og búin að prenta heta á lcd skján (sjá wiki)
