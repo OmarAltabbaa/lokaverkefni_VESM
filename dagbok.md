@@ -18,3 +18,8 @@
 
 ### í dag ég búin að loða heta mæiling (sjá wiki) , og búin að profa það og var virkar (sjá wiki)
 ### og lika ég búin að tengja hetamæli og lcd skjá saman og búin að prenta heta á lcd skján (sjá wiki)
+### lika búin ég að búa til 3d design fyiri arduino með lcd skján og hetta mæli.og æika fyrir raspripi og ultrasonic sonar.
+
+## 02.12.2020
+
+### i dag ég buin að senda koðan frá arduino til raspripi og frá raspripi til adafruit . og lika ég búin að búa til feed með dashbord.og svo ég búa til ifttt trigar til að senda email til minn . og allt verkefni komeið 
